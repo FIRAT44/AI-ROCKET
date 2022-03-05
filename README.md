@@ -2,4 +2,5 @@
 
 Otonom Roket iniş algoritması projesi.
 
-https://github.com/FIRAT44/AI-ROCKET/issues/1#issue-1160408485
+![lunarlander-ddqn](https://user-images.githubusercontent.com/54814566/156894312-d30a9d37-1575-44b1-a0cb-21af5317e9ef.png)
+
